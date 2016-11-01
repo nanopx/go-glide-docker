@@ -9,3 +9,4 @@ This simply runs a golang web app under docker, and manages vendor packages usin
 ```bash
 $ docker-compose up --build
 ```
+3. Open http://(docker container ip):3000
