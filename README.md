@@ -5,8 +5,5 @@ This simply runs a golang web app under docker, and manages vendor packages usin
 
 ## Usage
 1. Install docker
-2. Clone this repo, then initialize containers using:
-```bash
-$ docker-compose up --build
-```
+2. Clone this repo, then initialize containers using: `$ docker-compose up --build`
 3. Open http://(docker container ip):3000
